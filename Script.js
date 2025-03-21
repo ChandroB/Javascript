@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const sadknop = document.querySelector("#Buttonsad");
     const koptekst = document.querySelector("h1")
     function emotieKnop(waarde) {
-        // ik heb een if statement 
         // hoofdImage.src verandert de url/source van waar de afbeelding opgehaald wordt
         if (waarde === "happy") {
             hoofdimage.src = "afbeeldingen/Middel1.png"
