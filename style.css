@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(0, 79, 182);
+    text-align: center;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+   
+}
+
+.buttons-container img {
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: rgb(215, 221, 250);
+    padding: 5%;
+    color: aqua;
+
+
+}
+
+ul {
+    list-style: none;
+    
+}
